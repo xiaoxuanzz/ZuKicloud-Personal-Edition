@@ -236,3 +236,5 @@ max_execution_time = 300
 ## 开源协议
 
 本项目采用 [MIT 许可证](LICENSE) 开源。
+联系作者：https://space.bilibili.com/521205099
+如果觉得对你有帮助的，可以支持一下up哦，感激不尽
